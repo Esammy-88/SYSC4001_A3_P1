@@ -54,8 +54,11 @@ SYSC4001_A3_P1/
 ├── interrupts_101246652_101299749_RR.cpp     # Round Robin scheduler
 
 ├── interrupts_101246652_101299749_EP_RR.cpp  # Combined scheduler
+
 │
+
 ├── build.sh                                   # Build script
+
 ├── Makefile                                   # Automated build system
 
 ├── calculate_metrics.py                       # Performance analysis tool
