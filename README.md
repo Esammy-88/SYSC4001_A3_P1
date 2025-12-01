@@ -40,9 +40,9 @@ This project implements three CPU scheduling algorithms for a simulated operatin
 # Ubuntu
 sudo apt-get update
 sudo apt-get install build-essential g++ python3
-
-### Project Structure 
 ```
+### Project Structure 
+
 SYSC4001_A3_P1/
 │
 
@@ -108,7 +108,7 @@ SYSC4001_A3_P1/
 ├── report.pdf                                 # Analysis report 
 
 └── README.md                                  # This file
-```
+
 
 
 ## Installation
